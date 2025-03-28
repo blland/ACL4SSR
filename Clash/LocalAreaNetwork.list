@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,acl4.ssr
 DOMAIN-SUFFIX,6919.lol
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
-DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,localhost
 IP-CIDR,0.0.0.0/8,no-resolve
